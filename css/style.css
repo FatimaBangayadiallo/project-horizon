@@ -1,0 +1,57 @@
+.first-1 {
+    background-color: whitesmoke;
+}
+
+.first-car {
+    height: 450px;
+}
+
+.logo {
+    height: 70px;
+}
+
+.gray {
+    color: gray;
+}
+
+.gray:hover {
+    color: orangered;
+}
+
+
+/* plan section */
+
+.plan {
+    margin-top: 3rem;
+}
+
+.plan-text {
+    margin-bottom: 2rem;
+}
+
+
+/* end off plan section */
+
+
+/* footer section */
+
+.footer {
+    background-color: rebeccapurple;
+    margin-top: 4rem;
+    padding-top: 2rem;
+}
+
+.footer h2 {
+    color: orangered;
+}
+
+.footer h5 {
+    color: aqua;
+}
+
+.footer p {
+    color: white;
+}
+
+
+/* end off footer section */
